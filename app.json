@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "swiggy_ui",
+    "slug": "swiggy_ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "swiggy_ui"
+}
